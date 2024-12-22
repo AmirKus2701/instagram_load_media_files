@@ -1,0 +1,8 @@
+[MESSAGE CONTROL]
+disable=missing-module-docstring,
+wrong-import-order,invalid-name,
+unspecified-encoding,
+invalid-name,
+unspecified-encoding,
+missing-function-docstring,
+global-statement,
